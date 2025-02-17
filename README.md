@@ -1,9 +1,5 @@
 ### Hello there,  👋
 
-### Sobre
-🎓 Ciência da Computação ([SPTech](https://www.sptech.school/))
-
-
 ### Ferramentas
 
 [![My Skills](https://skillicons.dev/icons?i=java,js,python,nodejs,github,ts)](https://skillicons.dev) <br>
